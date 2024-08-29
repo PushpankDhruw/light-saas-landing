@@ -40,7 +40,7 @@ Make sure you have the following installed on your machine:
 2. Navigate to the project directory:
    ```sh
    cd light-saas-landing-page
-   ```****
+   ```
 3. Install the dependencies:
    ```sh
    npm install
