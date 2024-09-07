@@ -2,6 +2,8 @@
 ****
 This project is a light SaaS landing page built with modern web technologies. It features a clean and responsive design, with sections for a hero banner, call to action, and footer. The landing page is designed to help promote and provide information about a SaaS product.
 
+<img width="1920" alt="cover" src="https://github.com/user-attachments/assets/e1833dc1-f44e-4eb3-a470-812fd069a511">
+
 ## Features
 
 - 🌑 Modern light theme design
